@@ -1,5 +1,5 @@
 /**
- * @Name: conMITSTAMI.Del
+ * @Name: EXT002MI.Del
  * @Description: Deletes MITSTA record/s
  * @Authors: Jonard Tapang
  *
