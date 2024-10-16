@@ -1,11 +1,11 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 ![Build & Test](https://github.com/infor-cloud/acme-corp-extensions/workflows/Java%20CI/badge.svg?event=push)
 
-# ACME Corp. XtendM3 Extensions
-A sample repository for Acme Corp XtendM3 Extensions
+# Kroger Technology. XtendM3 Extensions
+A repository for the Kroger Technology XtendM3 Extensions
 
 ## Introduction
-This repository is a sample repository for Acme Corp XtendM3 Extensions. The idea is to keep all customer's extension in one repository and collaborate to create, maintain and update Extensions in a central repository and move to customer's environment when needed.
+This repository is a sample repository for The Kroger Technology XtendM3 Extensions. The idea is to keep all customer's extension in one repository and collaborate to create, maintain and update Extensions in a central repository and move to customer's environment when needed.
 
 This lets the developers to work with keeping track of modifications to the extensions as well as a big advantage of being able to build, test and run them locally with a mocked M3 environment and create unit test cases to ensure the quality of the developed extensions 
 
